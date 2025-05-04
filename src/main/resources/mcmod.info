@@ -1,0 +1,16 @@
+[
+{
+  "modid": "morehealthserverfix",
+  "name": "More Health Server Fix",
+  "description": "A quick mod that fixes More Health Forge when loaded on a server, as it tries to load keybinds on the server",
+  "version": "0.1.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/p0t4t0sandwich/MoreHealthForgeServerFix",
+  "updateUrl": "",
+  "authorList": ["p0t4t0sandwich"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["unimixins"]
+}
+]
